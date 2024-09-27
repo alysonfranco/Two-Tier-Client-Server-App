@@ -9,4 +9,8 @@ This project involves developing a two-tier Java-based client-server application
 - **Specialized Accountant Interface:** Restricted to querying the transaction logging database.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/9638a116-33aa-4755-9596-71a43cc5bf77)
+![image](https://github.com/user-attachments/assets/8d9a8c12-a579-4836-b844-850cb547b5e0)
+
+
 
